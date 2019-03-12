@@ -1,4 +1,4 @@
-IEEE Winter QP 2019 - Sleep Apnea Detector Device
+IEEE Winter QP 2019 - Sleep Apnea Detector Device (2nd place overall)
 
 By Mahmoud Maarouf, Allan Tan, Casey Lee
 
